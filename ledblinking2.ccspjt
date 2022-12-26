@@ -1,0 +1,43 @@
+[PROJECT]
+Target=ledblinking2.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.108dP-0427
+Compiler=PCM
+CCSVersion=5.108Pd
+[Target Data]
+FileList=ledblinking2.c
+[Directories]
+Include=
+[C:\Users\oztay\Documents\ledblinking2]
+Type=4
+[mru-list]
+1=ledblinking2.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=05-10-2022
+D1_L=4
+D1_L1=[62690]Project Opened.
+D1_L2=[62706]Started Editing.
+D1_L3=[63596]Stopped Editing.
+TotalEdit=10
+TotalDebug=0
+D1_E=10
+D1_D=0
+D1_L4=[64782]Project Closed.
+
+[Opened Files]
+1=ledblinking2.c
+t1=10
+Count=0
+[ledblinking2.c]
+Type=4
+
+[defines]
+buildcount=3
+[Units]
+Count=1
+1=ledblinking2 (main)
